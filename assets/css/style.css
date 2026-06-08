@@ -36,6 +36,8 @@ body {
     /* padding-top: 57.52px; Adjusted for navbar height */
     background-color: var(--background-color-primary);
     cursor: url('../images/cursor.svg') 0 0, auto;
+    max-width: 98vw;
+     /* Ensure the body takes up the full viewport width */
 }
 
 h1 {
